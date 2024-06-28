@@ -21,5 +21,4 @@ final router = GoRouter(
       builder: (context, state) => StatisticsScreen(),
     ),
   ],
-  
 );
